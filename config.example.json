@@ -1,0 +1,9 @@
+{
+    "influxdb": {
+        "host": "your.host.com",
+        "port": 8086,
+        "database": "nice_db",
+        "username": "nice_user",
+        "password": "super_safe_pa$$w0rd"
+    }
+}
